@@ -85,10 +85,10 @@ section {
 }
 
 .summary-items p {
-  text-transform: uppercase;
   margin-bottom: 2em;
+  font-size: 1em;
   text-transform: bold;
-  margin: 0 6em 4em 6em;
+  margin: 0 3em 4em 3em;
   color: #8a8787;
 }
 
